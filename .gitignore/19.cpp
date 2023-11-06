@@ -1,0 +1,1 @@
+//C++ Program to find cube of number using function

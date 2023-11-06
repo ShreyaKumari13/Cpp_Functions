@@ -1,0 +1,1 @@
+//C++ program to check number is palindrome or not using Function

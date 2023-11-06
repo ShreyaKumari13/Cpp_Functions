@@ -1,0 +1,1 @@
+//C++ program to find factorial of number using functions

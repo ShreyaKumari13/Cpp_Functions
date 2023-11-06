@@ -1,0 +1,1 @@
+//C++ program to find factorial by defining functions outside the class

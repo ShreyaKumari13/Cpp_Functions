@@ -1,0 +1,1 @@
+//C++ program to find sum and product of 5 numbers using inline function
